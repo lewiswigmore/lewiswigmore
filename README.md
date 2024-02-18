@@ -1,7 +1,5 @@
 <div align="center">
 
-![Lewis Wigmore](https://img.shields.io/badge/lewiswigmore-12100E?style=for-the-badge&logoColor=white&link=https://github.com/lewiswigmore)
-
 ![GitHub lewiswigmore](https://img.shields.io/badge/Github-12100E?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/lewiswigmore)
 
 ![Security-GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM213NDB6d3l0bG9ya2I4bWNndnR4MGVycmphbjJjb3huaWNtMTlyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tlGD7PDy1w8fK/giphy.gif) 

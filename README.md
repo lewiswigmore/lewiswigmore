@@ -26,7 +26,7 @@
     </td>
     <td align="center">
       <a href="https://lewaboutsecurity.com/2024/01/20/cyber-security-news-automation-an-azure-deployment/">
-        <img src="https://lewaboutsecurity.files.wordpress.com/2024/01/pexels-photo-9683980.jpeg" alt="blog-post-3" style="height: 75;"/><br />
+        <img src="https://lewaboutsecurity.files.wordpress.com/2024/01/pexels-photo-9683980.jpeg" alt="blog-post-3" style="height: 75px;"/><br />
         <sub><b>Cyber Security News Automation: An Azure Deployment</b></sub>
       </a>
     </td>

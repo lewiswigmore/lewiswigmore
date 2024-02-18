@@ -22,7 +22,7 @@
     <td align="center">
       <a href="https://lewaboutsecurity.com/2023/12/01/in-depth-analysis-of-phobos-ransomware-impersonating-vx-underground/">
         <img src="https://lewaboutsecurity.files.wordpress.com/2023/12/vx-underground-icon.png" alt="blog-post-2" style="height: 100px;"/><br />
-        <sub><b>Phobos Ransomware Impersonating Vx-Underground</b></sub>
+        <sub><b>Analysis of Phobos Ransomware Impersonating Vx-Underground</b></sub>
       </a>
     </td>
     <td align="center">

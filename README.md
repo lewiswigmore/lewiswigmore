@@ -10,20 +10,20 @@
 <!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=lewiswigmore&show_icons=true&hide=prs,contribs&theme=dark&bg_color=00000000&hide_border=true&hide_title=true)&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewiswigmore&layout=compact&theme=dark&bg_color=00000000&hide_border=true&hide_title=true) -->
 <br></br>
-<div align="center">
-  <a href="https://lewaboutsecurity.com/2023/10/16/hackerrank-30-days-of-code-in-python/>">
-    <img src="https://lewaboutsecurity.files.wordpress.com/2023/10/green-tree-python-python-tree-python-green-45246.jpeg" alt="blog-post-1" width="30%" /><br />
-    <b>HackerRank: 30 Days of Code in Python</b>
-  </a>
-  <a href="https://lewaboutsecurity.com/2023/12/01/in-depth-analysis-of-phobos-ransomware-impersonating-vx-underground/">
-    <img src="https://lewaboutsecurity.files.wordpress.com/2023/12/vx-underground-icon.png" alt="blog-post-2" width="30%" /><br />
-    <b>Analysis of Phobos Ransomware Impersonating Vx-Underground</b>
-  </a>
-  <a href="https://lewaboutsecurity.com/2024/01/20/cyber-security-news-automation-an-azure-deployment/">
-    <img src="https://lewaboutsecurity.files.wordpress.com/2024/01/pexels-photo-9683980.jpeg" alt="blog-post-3" width="30%" /><br />
-    <b>Cyber Security News Automation: An Azure Deployment</b>
-  </a>
-</div>
+<a href="https://lewaboutsecurity.com/2023/10/16/hackerrank-30-days-of-code-in-python/>">
+  <img src="https://lewaboutsecurity.files.wordpress.com/2023/10/green-tree-python-python-tree-python-green-45246.jpeg" alt="blog-post-1" height="75" /><br />
+  <b>HackerRank: 30 Days of Code in Python</b>
+</a>
+<br/><br/>
+<a href="https://lewaboutsecurity.com/2023/12/01/in-depth-analysis-of-phobos-ransomware-impersonating-vx-underground/">
+  <img src="https://lewaboutsecurity.files.wordpress.com/2023/12/vx-underground-icon.png" alt="blog-post-2" height="75" /><br />
+  <b>Analysis of Phobos Ransomware Impersonating Vx-Underground</b>
+</a>
+<br/><br/>
+<a href="https://lewaboutsecurity.com/2024/01/20/cyber-security-news-automation-an-azure-deployment/">
+  <img src="https://lewaboutsecurity.files.wordpress.com/2024/01/pexels-photo-9683980.jpeg" alt="blog-post-3" height="75" /><br />
+  <b>Cyber Security News Automation: An Azure Deployment</b>
+</a>
 <br></br>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;

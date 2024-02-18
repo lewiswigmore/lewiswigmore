@@ -10,7 +10,7 @@
 <!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=lewiswigmore&show_icons=true&hide=prs,contribs&theme=dark&bg_color=00000000&hide_border=true&hide_title=true)&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewiswigmore&layout=compact&theme=dark&bg_color=00000000&hide_border=true&hide_title=true) -->
 <br></br>
-<table>
+<table style="font-size: 10px;">
   <tr>
     <td align="center">
       <a href="https://lewaboutsecurity.com/2023/10/16/hackerrank-30-days-of-code-in-python/>">

@@ -7,27 +7,26 @@
 [![Spotify](https://img.shields.io/badge/Spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/wiggyboyo?si=c7026891c8b84fd8)&nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lewsecurity)&nbsp;
 [![Blog](https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=html5&logoColor=white)](https://lewaboutsecurity.com)&nbsp;
-<br></br>
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=lewiswigmore&show_icons=true&hide=prs,contribs&theme=dark&bg_color=00000000&hide_border=true&hide_title=true)&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewiswigmore&layout=compact&theme=dark&bg_color=00000000&hide_border=true&hide_title=true)
-<br></br>
+<!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=lewiswigmore&show_icons=true&hide=prs,contribs&theme=dark&bg_color=00000000&hide_border=true&hide_title=true)&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewiswigmore&layout=compact&theme=dark&bg_color=00000000&hide_border=true&hide_title=true) -->
+
 <table>
   <tr>
     <td align="center">
       <a href="https://lewaboutsecurity.com/2023/10/16/hackerrank-30-days-of-code-in-python/>">
-        <img src="https://lewaboutsecurity.files.wordpress.com/2023/10/green-tree-python-python-tree-python-green-45246.jpeg" alt="blog-post-1" style="height: 100px; width: 100px" /><br />
+        <img src="https://lewaboutsecurity.files.wordpress.com/2023/10/green-tree-python-python-tree-python-green-45246.jpeg" alt="blog-post-1" style="height: 100px;" /><br />
         <sub><b>HackerRank: 30 Days of Code in Python</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://lewaboutsecurity.com/2023/12/01/in-depth-analysis-of-phobos-ransomware-impersonating-vx-underground/">
-        <img src="https://lewaboutsecurity.files.wordpress.com/2023/12/vx-underground-icon.png" alt="blog-post-2" style="height: 100px; width: 100px"/><br />
+        <img src="https://lewaboutsecurity.files.wordpress.com/2023/12/vx-underground-icon.png" alt="blog-post-2" style="height: 100px;"/><br />
         <sub><b>Analysis of Phobos Ransomware Impersonating Vx-Underground</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://lewaboutsecurity.com/2024/01/20/cyber-security-news-automation-an-azure-deployment/">
-        <img src="https://lewaboutsecurity.files.wordpress.com/2024/01/pexels-photo-9683980.jpeg" alt="blog-post-3" style="height: 100px; width: 100px"/><br />
+        <img src="https://lewaboutsecurity.files.wordpress.com/2024/01/pexels-photo-9683980.jpeg" alt="blog-post-3" style="height: 100px;"/><br />
         <sub><b>Cyber Security News Automation: An Azure Deployment</b></sub>
       </a>
     </td>

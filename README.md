@@ -15,10 +15,12 @@
 </a>
 HackerRank: 30 Days of Code in Python
 
+
 <a href="https://lewaboutsecurity.com/2023/12/01/in-depth-analysis-of-phobos-ransomware-impersonating-vx-underground/" style="text-decoration: none;">
     <img src="https://lewaboutsecurity.files.wordpress.com/2023/12/vx-underground-icon.png" width="30" height="30">
 </a>
 Analysis of Phobos Ransomware Impersonating Vx-Underground
+
 
 <a href="https://lewaboutsecurity.com/2024/01/20/cyber-security-news-automation-an-azure-deployment/" style="text-decoration: none;">
     <img src="https://lewaboutsecurity.files.wordpress.com/2024/01/pexels-photo-9683980.jpeg" width="30" height="30">

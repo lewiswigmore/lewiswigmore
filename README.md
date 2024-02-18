@@ -15,19 +15,19 @@
   <tr>
     <td align="center">
       <a href="https://lewaboutsecurity.com/2023/10/16/hackerrank-30-days-of-code-in-python/>">
-        <img src="https://lewaboutsecurity.files.wordpress.com/2023/10/green-tree-python-python-tree-python-green-45246.jpeg" alt="blog-post-1" style="height: 100px;" /><br />
+        <img src="https://lewaboutsecurity.files.wordpress.com/2023/10/green-tree-python-python-tree-python-green-45246.jpeg" alt="blog-post-1" style="height: 100px; width: 100px" /><br />
         <sub><b>HackerRank: 30 Days of Code in Python</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://lewaboutsecurity.com/2023/12/01/in-depth-analysis-of-phobos-ransomware-impersonating-vx-underground/">
-        <img src="https://lewaboutsecurity.files.wordpress.com/2023/12/vx-underground-icon.png" alt="blog-post-2" style="height: 100px;"/><br />
+        <img src="https://lewaboutsecurity.files.wordpress.com/2023/12/vx-underground-icon.png" alt="blog-post-2" style="height: 100px; width: 100px"/><br />
         <sub><b>Analysis of Phobos Ransomware Impersonating Vx-Underground</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://lewaboutsecurity.com/2024/01/20/cyber-security-news-automation-an-azure-deployment/">
-        <img src="https://lewaboutsecurity.files.wordpress.com/2024/01/pexels-photo-9683980.jpeg" alt="blog-post-3" style="height: 100px;"/><br />
+        <img src="https://lewaboutsecurity.files.wordpress.com/2024/01/pexels-photo-9683980.jpeg" alt="blog-post-3" style="height: 100px; width: 100px"/><br />
         <sub><b>Cyber Security News Automation: An Azure Deployment</b></sub>
       </a>
     </td>

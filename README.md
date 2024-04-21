@@ -47,6 +47,3 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGthNnB6amYyNTR1cXoyNmlldXNtbXpuYmZoeTl6NnQ3d2dlYWN4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XR9Dp54ZC4dji/giphy.gif" height="50" />
-<br>
-<br>
-[![Leave a note](https://img.shields.io/badge/Leave%20a%20note-0078D7?style=flat&logo=gitbook&logoColor=white)](https://github.com/lewiswigmore/lewiswigmore/issues/2)

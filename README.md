@@ -6,25 +6,15 @@
 [![Spotify](https://img.shields.io/badge/Spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/wiggyboyo?si=c7026891c8b84fd8)&nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lewsecurity)&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/lewiswigmore)&nbsp;
-[![Blog](https://img.shields.io/badge/Blog-777BB4?style=for-the-badge&logo=educative&logoColor=white)](https://lewaboutsecurity.com)&nbsp;
+[![Blog](https://img.shields.io/badge/Blog-777BB4?style=for-the-badge&logo=educative&logoColor=white)](https://app.gitbook.com/o/zNJIU5qU9YQzGt0REQSz/s/YT8mdhOQ3VP3caWmOlIk/)&nbsp;
 <!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=lewiswigmore&show_icons=true&hide=prs,contribs&theme=dark&bg_color=00000000&hide_border=true&hide_title=true)&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewiswigmore&layout=compact&theme=dark&bg_color=00000000&hide_border=true&hide_title=true) -->
 
-##### Blog posts
-<a href="https://lewaboutsecurity.com/2023/10/16/hackerrank-30-days-of-code-in-python/" style="text-decoration: none;">
-    <img src="https://lewaboutsecurity.files.wordpress.com/2023/10/green-tree-python-python-tree-python-green-45246.jpeg" width="30" height="30">
-</a>
- HackerRank: 30 Days of Code in Python
-<br>
-<a href="https://lewaboutsecurity.com/2023/12/01/in-depth-analysis-of-phobos-ransomware-impersonating-vx-underground/" style="text-decoration: none;">
-    <img src="https://lewaboutsecurity.files.wordpress.com/2023/12/vx-underground-icon.png" width="30" height="30">
-</a>
- Analysis of Phobos Ransomware Impersonating Vx-Underground
-<br>
-<a href="https://lewaboutsecurity.com/2024/01/20/cyber-security-news-automation-an-azure-deployment/" style="text-decoration: none;">
-    <img src="https://lewaboutsecurity.files.wordpress.com/2024/01/pexels-photo-9683980.jpeg" width="30" height="30">
-</a>
- Cyber Security News Automation: An Azure Deployment
+##### Latest blog post
+
+<a href="https://app.gitbook.com/o/zNJIU5qU9YQzGt0REQSz/s/YT8mdhOQ3VP3caWmOlIk/write-ups/phobos-ransomware-impersonating-vx-underground" style="text-decoration: none;">
+    <img src="https://vx-underground.org/images/headerbg.png" width="120" height="30"> 
+</a > Analysis of Phobos Ransomware Impersonating Vx-Underground  
 
 ##### Technologies
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;

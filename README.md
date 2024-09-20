@@ -12,7 +12,7 @@
 
 ##### Latest blog post
 
-<a href="https://app.gitbook.com/o/zNJIU5qU9YQzGt0REQSz/s/YT8mdhOQ3VP3caWmOlIk/write-ups/phobos-ransomware-impersonating-vx-underground" style="text-decoration: none;">
+<a href="https://app.gitbook.com/o/zNJIU5qU9YQzGt0REQSz/s/YT8mdhOQ3VP3caWmOlIk/malware/phobos-ransomware-impersonating-vx-underground" style="text-decoration: none;">
     <img src="https://vx-underground.org/images/headerbg.png" width="120" height="30"> 
 </a > Analysis of Phobos Ransomware Impersonating Vx-Underground  
 

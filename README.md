@@ -11,7 +11,7 @@
 
 ##### Latest blog post
 
-<a href="https://jolly-field-0a0a28903.6.azurestaticapps.net/archives/" style="text-decoration: none;">
+<a href="https://zeroxlews.com/archives/" style="text-decoration: none;">
     <img src="https://vx-underground.org/images/headerbg.png" width="120" height="30"> 
 </a > Analysis of Phobos Ransomware Impersonating Vx-Underground  
 
